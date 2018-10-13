@@ -2,8 +2,7 @@
 # To be run before fullSim.py
 
 import os
-#os.chdir("[SET WORKING DIRECTORY]")
-os.chdir(r'C:\Users\Sam\Documents\DATA\NBA season projections\NBAsim GITHUB ENVIRONMENT\python')
+os.chdir("[SET WORKING DIRECTORY]")
 
 
 from datetime import datetime as dt

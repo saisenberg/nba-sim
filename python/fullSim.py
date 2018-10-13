@@ -2,8 +2,7 @@
 # To be run after fullPrep.py
 
 import os
-#os.chdir("[SET WORKING DIRECTORY]")
-os.chdir(r'C:\Users\Sam\Documents\DATA\NBA season projections\NBAsim GITHUB ENVIRONMENT\python')
+os.chdir("[SET WORKING DIRECTORY]")
 
 import numpy as np
 import pandas as pd

@@ -31,7 +31,7 @@ install_packages(lib)
     
 ### Instructions for use
 
-### \*Skip to step 4 to bypass all web scraping, data cleaning, and data aggregation.\*
+#### Skip to step 4 to bypass all web scraping, data cleaning, and data aggregation.
 
 #### 1. Web scraping - 2016-17 and 2017-18 seasons
 
