@@ -1,0 +1,466 @@
+Player,Depth,Team,teamAbbr
+T. Young,1,Atlanta,ATL
+K. Bazemore,1,Atlanta,ATL
+T. Prince,1,Atlanta,ATL
+J. Collins,1,Atlanta,ATL
+D. Dedmon,1,Atlanta,ATL
+J. Lin,2,Atlanta,ATL
+K. Huerter,2,Atlanta,ATL
+T. Dorsey,2,Atlanta,ATL
+O. Spellman,2,Atlanta,ATL
+A. Len,2,Atlanta,ATL
+J. Adams,3,Atlanta,ATL
+D. Bembry,3,Atlanta,ATL
+J. Anderson,3,Atlanta,ATL
+A. Poythress,3,Atlanta,ATL
+M. Plumlee,3,Atlanta,ATL
+V. Carter,4,Atlanta,ATL
+D. Hamilton,4,Atlanta,ATL
+T. Robinson,4,Atlanta,ATL
+C. Aldrich,4,Atlanta,ATL
+R. Hunter,5,Atlanta,ATL
+K. Irving,1,Boston,BOS
+J. Brown,1,Boston,BOS
+G. Hayward,1,Boston,BOS
+J. Tatum,1,Boston,BOS
+A. Horford,1,Boston,BOS
+T. Rozier,2,Boston,BOS
+M. Smart,2,Boston,BOS
+S. Ojeleye,2,Boston,BOS
+M. Morris,2,Boston,BOS
+A. Baynes,2,Boston,BOS
+W. Lemon Jr.,3,Boston,BOS
+B. Wanamaker,3,Boston,BOS
+J. Bird,3,Boston,BOS
+G. Yabusele,3,Boston,BOS
+D. Theis,3,Boston,BOS
+P. Dozier,4,Boston,BOS
+R. Williams,4,Boston,BOS
+D. Russell,1,Brooklyn,BRK
+A. Crabbe,1,Brooklyn,BRK
+D. Carroll,1,Brooklyn,BRK
+R. Hollis-Jefferson,1,Brooklyn,BRK
+J. Allen,1,Brooklyn,BRK
+S. Dinwiddie,2,Brooklyn,BRK
+C. LeVert,2,Brooklyn,BRK
+J. Harris,2,Brooklyn,BRK
+E. Davis,2,Brooklyn,BRK
+K. Faried,2,Brooklyn,BRK
+S. Napier,3,Brooklyn,BRK
+T. Graham,3,Brooklyn,BRK
+D. Musa,3,Brooklyn,BRK
+J. Dudley,3,Brooklyn,BRK
+R. Kurucs,4,Brooklyn,BRK
+K. Dunn,1,Chicago,CHI
+Z. LaVine,1,Chicago,CHI
+J. Parker,1,Chicago,CHI
+L. Markkanen,1,Chicago,CHI
+R. Lopez,1,Chicago,CHI
+C. Payne,2,Chicago,CHI
+C. Hutchison,2,Chicago,CHI
+J. Holiday,2,Chicago,CHI
+B. Portis,2,Chicago,CHI
+W. Carter Jr.,2,Chicago,CHI
+R. Arcidiacono,3,Chicago,CHI
+A. Blakeney,3,Chicago,CHI
+D. Valentine,3,Chicago,CHI
+C. Felicio,3,Chicago,CHI
+D. Walton Jr.,4,Chicago,CHI
+A. Cleveland,4,Chicago,CHI
+O. Asik,4,Chicago,CHI
+K. Walker,1,Charlotte,CHO
+N. Batum,1,Charlotte,CHO
+M. Kidd-Gilchrist,1,Charlotte,CHO
+M. Williams,1,Charlotte,CHO
+C. Zeller,1,Charlotte,CHO
+T. Parker,2,Charlotte,CHO
+J. Lamb,2,Charlotte,CHO
+M. Bridges,2,Charlotte,CHO
+F. Kaminsky,2,Charlotte,CHO
+B. Biyombo,2,Charlotte,CHO
+D. Graham,3,Charlotte,CHO
+M. Monk,3,Charlotte,CHO
+D. Bacon,3,Charlotte,CHO
+W. Hernangomez,3,Charlotte,CHO
+G. Hill,1,Cleveland,CLE
+J. Smith,1,Cleveland,CLE
+R. Hood,1,Cleveland,CLE
+K. Love,1,Cleveland,CLE
+T. Thompson,1,Cleveland,CLE
+C. Sexton,2,Cleveland,CLE
+J. Clarkson,2,Cleveland,CLE
+K. Korver,2,Cleveland,CLE
+L. Nance Jr.,2,Cleveland,CLE
+A. Zizic,2,Cleveland,CLE
+I. Taylor,3,Cleveland,CLE
+D. Nwaba,3,Cleveland,CLE
+C. Osman,3,Cleveland,CLE
+S. Dekker,3,Cleveland,CLE
+C. Frye,4,Cleveland,CLE
+D. Smith Jr.,1,Dallas,DAL
+L. Doncic,1,Dallas,DAL
+W. Matthews,1,Dallas,DAL
+H. Barnes,1,Dallas,DAL
+D. Jordan,1,Dallas,DAL
+J. Barea,2,Dallas,DAL
+D. Harris,2,Dallas,DAL
+D. Finney-Smith,2,Dallas,DAL
+D. Nowitzki,2,Dallas,DAL
+M. Kleber,2,Dallas,DAL
+J. Brunson,3,Dallas,DAL
+R. Broekhoff,3,Dallas,DAL
+D. Powell,3,Dallas,DAL
+S. Mejri,3,Dallas,DAL
+R. Spalding,4,Dallas,DAL
+K. Antetokounmpo,5,Dallas,DAL
+J. Murray,1,Denver,DEN
+G. Harris,1,Denver,DEN
+W. Barton,1,Denver,DEN
+P. Millsap,1,Denver,DEN
+N. Jokic,1,Denver,DEN
+I. Thomas,2,Denver,DEN
+M. Beasley,2,Denver,DEN
+T. Craig,2,Denver,DEN
+T. Lyles,2,Denver,DEN
+M. Plumlee,2,Denver,DEN
+M. Morris,3,Denver,DEN
+D. Akoon-Purcell,3,Denver,DEN
+J. Hernangomez,3,Denver,DEN
+T. Lydon,3,Denver,DEN
+T. Welsh,3,Denver,DEN
+M. Porter Jr.,4,Denver,DEN
+J. Vanderbilt,4,Denver,DEN
+R. Jackson,1,Detroit,DET
+R. Bullock,1,Detroit,DET
+S. Johnson,1,Detroit,DET
+B. Griffin,1,Detroit,DET
+A. Drummond,1,Detroit,DET
+I. Smith,2,Detroit,DET
+L. Kennard,2,Detroit,DET
+G. Robinson III,2,Detroit,DET
+H. Ellenson,2,Detroit,DET
+Z. Pachulia,2,Detroit,DET
+J. Calderon,3,Detroit,DET
+L. Galloway,3,Detroit,DET
+K. Thomas,3,Detroit,DET
+J. Leuer,3,Detroit,DET
+B. Brown,4,Detroit,DET
+S. Curry,1,Golden State,GSW
+K. Thompson,1,Golden State,GSW
+K. Durant,1,Golden State,GSW
+D. Green,1,Golden State,GSW
+J. Bell,1,Golden State,GSW
+S. Livingston,2,Golden State,GSW
+J. Evans,2,Golden State,GSW
+A. Iguodala,2,Golden State,GSW
+K. Looney,2,Golden State,GSW
+D. Jones,2,Golden State,GSW
+Q. Cook,3,Golden State,GSW
+J. Jerebko,3,Golden State,GSW
+D. Cousins,3,Golden State,GSW
+D. Lee,4,Golden State,GSW
+C. Paul,1,Houston,HOU
+J. Harden,1,Houston,HOU
+C. Anthony,1,Houston,HOU
+M. Chriss,1,Houston,HOU
+C. Capela,1,Houston,HOU
+M. Carter-Williams,2,Houston,HOU
+E. Gordon,2,Houston,HOU
+P. Tucker,2,Houston,HOU
+J. Ennis III,2,Houston,HOU
+N. Hilario,2,Houston,HOU
+B. Knight,3,Houston,HOU
+G. Green,3,Houston,HOU
+Z. Qi,3,Houston,HOU
+D. Collison,1,Indiana,IND
+V. Oladipo,1,Indiana,IND
+B. Bogdanovic,1,Indiana,IND
+T. Young,1,Indiana,IND
+M. Turner,1,Indiana,IND
+C. Joseph,2,Indiana,IND
+T. Evans,2,Indiana,IND
+D. McDermott,2,Indiana,IND
+D. Sabonis,2,Indiana,IND
+I. Anigbogu,2,Indiana,IND
+A. Holiday,3,Indiana,IND
+E. Sumner,3,Indiana,IND
+A. Johnson,3,Indiana,IND
+T. Leaf,3,Indiana,IND
+P. Beverley,1,LA Clippers,LAC
+A. Bradley,1,LA Clippers,LAC
+D. Gallinari,1,LA Clippers,LAC
+T. Harris,1,LA Clippers,LAC
+M. Gortat,1,LA Clippers,LAC
+M. Teodosic,2,LA Clippers,LAC
+L. Williams,2,LA Clippers,LAC
+L. Mbah a Moute,2,LA Clippers,LAC
+M. Scott,2,LA Clippers,LAC
+M. Harrell,2,LA Clippers,LAC
+S. Gilgeous-Alexander,3,LA Clippers,LAC
+J. Robinson,3,LA Clippers,LAC
+W. Johnson,3,LA Clippers,LAC
+J. Motley,3,LA Clippers,LAC
+B. Marjanovic,3,LA Clippers,LAC
+J. Evans,4,LA Clippers,LAC
+T. Wallace,4,LA Clippers,LAC
+S. Thornwell,5,LA Clippers,LAC
+R. Rondo,1,LA Lakers,LAL
+K. Caldwell-Pope,1,LA Lakers,LAL
+L. James,1,LA Lakers,LAL
+B. Ingram,1,LA Lakers,LAL
+J. McGee,1,LA Lakers,LAL
+L. Ball,2,LA Lakers,LAL
+J. Hart,2,LA Lakers,LAL
+L. Stephenson,2,LA Lakers,LAL
+K. Kuzma,2,LA Lakers,LAL
+I. Zubac,2,LA Lakers,LAL
+I. Bonga,3,LA Lakers,LAL
+S. Mykhailiuk,3,LA Lakers,LAL
+M. Beasley,3,LA Lakers,LAL
+M. Wagner,3,LA Lakers,LAL
+A. Caruso,4,LA Lakers,LAL
+T. Wear,4,LA Lakers,LAL
+M. Conley,1,Memphis,MEM
+W. Selden,1,Memphis,MEM
+K. Anderson,1,Memphis,MEM
+J. Green,1,Memphis,MEM
+M. Gasol,1,Memphis,MEM
+S. Mack,2,Memphis,MEM
+G. Temple,2,Memphis,MEM
+D. Brooks,2,Memphis,MEM
+C. Parsons,2,Memphis,MEM
+J. Jackson Jr.,2,Memphis,MEM
+J. Carter,3,Memphis,MEM
+M. Brooks,3,Memphis,MEM
+O. Casspi,3,Memphis,MEM
+I. Rabb,3,Memphis,MEM
+A. Harrison,4,Memphis,MEM
+G. Dragic,1,Miami,MIA
+D. Wade,1,Miami,MIA
+J. Richardson,1,Miami,MIA
+J. Johnson,1,Miami,MIA
+H. Whiteside,1,Miami,MIA
+T. Johnson,2,Miami,MIA
+W. Ellington,2,Miami,MIA
+J. Winslow,2,Miami,MIA
+K. Olynyk,2,Miami,MIA
+B. Adebayo,2,Miami,MIA
+D. Waiters,3,Miami,MIA
+D. Jones Jr.,3,Miami,MIA
+U. Haslem,3,Miami,MIA
+R. McGruder,4,Miami,MIA
+Y. Maten,4,Miami,MIA
+E. Bledsoe,1,Milwaukee,MIL
+M. Brogdon,1,Milwaukee,MIL
+K. Middleton,1,Milwaukee,MIL
+G. Antetokounmpo,1,Milwaukee,MIL
+B. Lopez,1,Milwaukee,MIL
+D. DiVincenzo,2,Milwaukee,MIL
+P. Connaughton,2,Milwaukee,MIL
+T. Snell,2,Milwaukee,MIL
+E. Ilyasova,2,Milwaukee,MIL
+J. Henson,2,Milwaukee,MIL
+M. Dellavedova,3,Milwaukee,MIL
+S. Brown,3,Milwaukee,MIL
+D. Wilson,3,Milwaukee,MIL
+T. Maker,3,Milwaukee,MIL
+J. Teague,1,Minnesota,MIN
+J. Butler,1,Minnesota,MIN
+A. Wiggins,1,Minnesota,MIN
+T. Gibson,1,Minnesota,MIN
+K. Towns,1,Minnesota,MIN
+T. Jones,2,Minnesota,MIN
+J. Okogie,2,Minnesota,MIN
+L. Deng,2,Minnesota,MIN
+A. Tolliver,2,Minnesota,MIN
+G. Dieng,2,Minnesota,MIN
+D. Rose,3,Minnesota,MIN
+J. Nunnally,3,Minnesota,MIN
+K. Bates-Diop,3,Minnesota,MIN
+J. Patton,3,Minnesota,MIN
+C. Williams,4,Minnesota,MIN
+J. Holiday,1,New Orleans,NOP
+E. Moore,1,New Orleans,NOP
+S. Hill,1,New Orleans,NOP
+J. Randle,1,New Orleans,NOP
+A. Davis,1,New Orleans,NOP
+E. Payton,2,New Orleans,NOP
+I. Clark,2,New Orleans,NOP
+D. Miller,2,New Orleans,NOP
+N. Mirotic,2,New Orleans,NOP
+J. Okafor,2,New Orleans,NOP
+F. Jackson,3,New Orleans,NOP
+T. Bluiett,3,New Orleans,NOP
+C. Diallo,3,New Orleans,NOP
+A. Ajinca,3,New Orleans,NOP
+T. Burke,1,New York,NYK
+C. Lee,1,New York,NYK
+T. Hardaway Jr.,1,New York,NYK
+M. Hezonja,1,New York,NYK
+E. Kanter,1,New York,NYK
+E. Mudiay,2,New York,NYK
+F. Ntilikina,2,New York,NYK
+K. Knox,2,New York,NYK
+L. Thomas,2,New York,NYK
+M. Robinson,2,New York,NYK
+R. Baker,3,New York,NYK
+D. Dotson,3,New York,NYK
+N. Vonleh,3,New York,NYK
+L. Kornet,3,New York,NYK
+K. Porzingis,4,New York,NYK
+J. Noah,4,New York,NYK
+I. Hicks,5,New York,NYK
+R. Westbrook,1,Oklahoma City,OKC
+A. Roberson,1,Oklahoma City,OKC
+P. George,1,Oklahoma City,OKC
+J. Grant,1,Oklahoma City,OKC
+S. Adams,1,Oklahoma City,OKC
+D. Schroder,2,Oklahoma City,OKC
+A. Abrines,2,Oklahoma City,OKC
+T. Ferguson,2,Oklahoma City,OKC
+P. Patterson,2,Oklahoma City,OKC
+N. Noel,2,Oklahoma City,OKC
+R. Felton,3,Oklahoma City,OKC
+T. Luwawu-Cabarrot,3,Oklahoma City,OKC
+A. Nader,3,Oklahoma City,OKC
+T. Davis,3,Oklahoma City,OKC
+H. Diallo,4,Oklahoma City,OKC
+D. Burton,4,Oklahoma City,OKC
+D. Augustin,1,Orlando,ORL
+E. Fournier,1,Orlando,ORL
+J. Simmons,1,Orlando,ORL
+A. Gordon,1,Orlando,ORL
+N. Vucevic,1,Orlando,ORL
+J. Grant,2,Orlando,ORL
+T. Ross,2,Orlando,ORL
+M. Frazier Jr.,2,Orlando,ORL
+J. Isaac,2,Orlando,ORL
+M. Bamba,2,Orlando,ORL
+W. Iwundu,3,Orlando,ORL
+J. Martin,3,Orlando,ORL
+T. Mozgov,3,Orlando,ORL
+K. Birch,4,Orlando,ORL
+B. Simmons,1,Philadelphia,PHI
+J. Redick,1,Philadelphia,PHI
+R. Covington,1,Philadelphia,PHI
+D. Saric,1,Philadelphia,PHI
+J. Embiid,1,Philadelphia,PHI
+M. Fultz,2,Philadelphia,PHI
+T. McConnell,2,Philadelphia,PHI
+W. Chandler,2,Philadelphia,PHI
+M. Muscala,2,Philadelphia,PHI
+A. Johnson,2,Philadelphia,PHI
+J. Bayless,3,Philadelphia,PHI
+Z. Smith,3,Philadelphia,PHI
+F. Korkmaz,3,Philadelphia,PHI
+L. Shamet,4,Philadelphia,PHI
+S. Milton,4,Philadelphia,PHI
+D. Jackson,5,Philadelphia,PHI
+D. Booker,1,Phoenix,PHO
+T. Ariza,1,Phoenix,PHO
+R. Anderson,1,Phoenix,PHO
+D. Ayton,1,Phoenix,PHO
+E. Okobo,2,Phoenix,PHO
+T. Daniels,2,Phoenix,PHO
+J. Jackson,2,Phoenix,PHO
+D. Bender,2,Phoenix,PHO
+R. Holmes,2,Phoenix,PHO
+D. Melton,3,Phoenix,PHO
+D. Reed,3,Phoenix,PHO
+T. Warren,3,Phoenix,PHO
+D. Arthur,3,Phoenix,PHO
+T. Chandler,3,Phoenix,PHO
+I. Canaan,4,Phoenix,PHO
+M. Bridges,4,Phoenix,PHO
+D. Lillard,1,Portland,POR
+C. McCollum,1,Portland,POR
+M. Harkless,1,Portland,POR
+A. Aminu,1,Portland,POR
+J. Nurkic,1,Portland,POR
+S. Curry,2,Portland,POR
+N. Stauskas,2,Portland,POR
+E. Turner,2,Portland,POR
+M. Leonard,2,Portland,POR
+Z. Collins,2,Portland,POR
+W. Baldwin IV,3,Portland,POR
+G. Trent Jr.,3,Portland,POR
+J. Layman,3,Portland,POR
+C. Swanigan,3,Portland,POR
+A. Simons,4,Portland,POR
+D. Fox,1,Sacramento,SAC
+B. Hield,1,Sacramento,SAC
+B. Bogdanovic,1,Sacramento,SAC
+Z. Randolph,1,Sacramento,SAC
+W. Cauley-Stein,1,Sacramento,SAC
+Y. Ferrell,2,Sacramento,SAC
+I. Shumpert,2,Sacramento,SAC
+J. Jackson,2,Sacramento,SAC
+M. Bagley III,2,Sacramento,SAC
+H. Giles,2,Sacramento,SAC
+F. Mason III,3,Sacramento,SAC
+B. McLemore,3,Sacramento,SAC
+N. Bjelica,3,Sacramento,SAC
+K. Koufos,3,Sacramento,SAC
+J. Artis,4,Sacramento,SAC
+S. Labissiere,4,Sacramento,SAC
+D. Murray,1,San Antonio,SAS
+D. DeRozan,1,San Antonio,SAS
+R. Gay,1,San Antonio,SAS
+L. Aldridge,1,San Antonio,SAS
+P. Gasol,1,San Antonio,SAS
+P. Mills,2,San Antonio,SAS
+B. Forbes,2,San Antonio,SAS
+M. Belinelli,2,San Antonio,SAS
+D. Bertans,2,San Antonio,SAS
+J. Poeltl,2,San Antonio,SAS
+D. White,3,San Antonio,SAS
+L. Walker IV,3,San Antonio,SAS
+Q. Pondexter,3,San Antonio,SAS
+D. Cunningham,3,San Antonio,SAS
+C. Metu,4,San Antonio,SAS
+K. Lowry,1,Toronto,TOR
+D. Green,1,Toronto,TOR
+K. Leonard,1,Toronto,TOR
+S. Ibaka,1,Toronto,TOR
+J. Valanciunas,1,Toronto,TOR
+D. Wright,2,Toronto,TOR
+C. Miles,2,Toronto,TOR
+O. Anunoby,2,Toronto,TOR
+P. Siakam,2,Toronto,TOR
+G. Monroe,2,Toronto,TOR
+F. VanVleet,3,Toronto,TOR
+M. Richardson,3,Toronto,TOR
+N. Powell,3,Toronto,TOR
+L. Brown,4,Toronto,TOR
+J. Loyd,4,Toronto,TOR
+R. Rubio,1,Utah,UTA
+D. Mitchell,1,Utah,UTA
+J. Ingles,1,Utah,UTA
+D. Favors,1,Utah,UTA
+R. Gobert,1,Utah,UTA
+D. Exum,2,Utah,UTA
+A. Burks,2,Utah,UTA
+R. O'Neale,2,Utah,UTA
+J. Crowder,2,Utah,UTA
+E. Udoh,2,Utah,UTA
+R. Neto,3,Utah,UTA
+G. Allen,3,Utah,UTA
+T. Sefolosha,3,Utah,UTA
+G. Niang,3,Utah,UTA
+T. Bradley,3,Utah,UTA
+T. Cavanaugh,4,Utah,UTA
+J. Wall,1,Washington,WAS
+B. Beal,1,Washington,WAS
+O. Porter Jr.,1,Washington,WAS
+M. Morris,1,Washington,WAS
+D. Howard,1,Washington,WAS
+T. Satoransky,2,Washington,WAS
+A. Rivers,2,Washington,WAS
+K. Oubre Jr.,2,Washington,WAS
+J. Green,2,Washington,WAS
+I. Mahinmi,2,Washington,WAS
+J. Meeks,3,Washington,WAS
+T. Brown Jr.,3,Washington,WAS
+J. Smith,3,Washington,WAS
+T. Bryant,3,Washington,WAS
+J. McRae,4,Washington,WAS
