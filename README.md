@@ -23,14 +23,15 @@ A full description of the project can be found at [**saisenberg.com**](https://s
 
 * R:
 
-```lib <- c('dplyr', 'ggplot2', 'gtools', 'htmltab', 'lubridate', 'maps', 'openxlsx', 'splitstackshape', 'stringi', 'stringr', 'tidyr')
+```
+lib <- c('dplyr', 'ggplot2', 'gtools', 'htmltab', 'lubridate', 'maps', 'openxlsx', 'splitstackshape', 'stringi', 'stringr', 'tidyr')
 install_packages(lib)
 ```
     
     
 ### Instructions for use
 
-##### To bypass all web scraping, data cleaning, and data aggregation, skip to step 4.
+### \*Skip to step 4 to bypass all web scraping, data cleaning, and data aggregation.\*
 
 #### 1. Web scraping - 2016-17 and 2017-18 seasons
 
