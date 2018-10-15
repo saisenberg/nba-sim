@@ -93,7 +93,7 @@ Make sure to change your working directory to */python/* in both .py files.
     * *num_season_sim* (default = 1) - the number of regular seasons to simulate
     * *num_playoffs_sim* (default = 1) - the number of playoffs to simulate (using the mean playoff seedings of all season simulations)
     * *win_prob_power* (default = 1.4) - the power to which every lineup's respective win probability is raised
-    * *injury_freq* (default = 700 for regular season; 900 for playoffs) - the probability of player injury. Note that higher numbers corresponds with *fewer* injuries; an *injury_freq* of 1/700, for instance, means that one in every seven hundred players will suffer an injury
+    * *injury_freq* (default = 700 for regular season; 900 for playoffs) - the probability of player injury. Note that higher numbers corresponds with *fewer* injuries; an *injury_freq* of 700, for instance, means that one in every seven hundred players will suffer an injury
     * *injury_print* (default = False) - whether injuries are printed throughout each simulated season
 
 
